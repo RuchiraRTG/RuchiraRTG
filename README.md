@@ -1,7 +1,9 @@
-<a target="_blank" align="center">
-  <img align="right" top="400" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
- 
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
+</div>
+
  
  <h1 align="center">Hi 👋, I'm RUCHIRA THARUPATHI</h1>
 <h3 align="center">A passionate full-stack developer from Srilanka</h3>
