@@ -47,18 +47,18 @@
 <p align="left">
 <!--- stats (start) -->
 
-<h3><p align="center">  ────────────────────── ─  📊 Stats 📊 ─ ────────────────────── </p></h3> 
+<h3><p align="center">   ─────────── ─  📊 Stats 📊 ─  ──────────── </p></h3> 
 <br>
 
 <div align="center">
   <br>
   <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=6" alt="JordanCJ7"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=7" alt="JordanCJ7"></p>
   <br>
-  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&v=6" /></p>
+  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&v=7" /></p>
   <br>
   <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=6" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=7" /></p>
 </div>
 
 
@@ -68,9 +68,12 @@
 
 
 <!--- trophy (start) -->
-<!--<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ruchirartgt&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a> -->
- <h6> Last edit : 20/02/2025</h6>
+<div align=center>
+  <br>
+  <p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=RuchiraRTG&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="Quote Image"></p>
+ 
 </div>
+
+ <h6> Last edit : 20/02/2025</h6>
+ 
