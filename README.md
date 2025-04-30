@@ -17,6 +17,11 @@
 - 📫 How to reach me **ruchiratharupathi01@gmail.com**
 
 - ⚡ Fun fact **call me Ruchira**
+
+
+<div align="center">
+  <img alt="Football-life" src="/New folder/octocat-1746048941847.png" width="300px">
+</div>
   
 
 <h2 align="center">Connect with me:</h3>
