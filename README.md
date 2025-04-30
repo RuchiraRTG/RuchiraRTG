@@ -29,14 +29,14 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,angular,vite,next" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase,appwrite" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,reactnative,expo,androidstudio" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,daisyui,tailwindcss" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman,api" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,api" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse,androidstudio" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
