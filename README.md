@@ -52,7 +52,8 @@
   
   <img  align="center"  src=" " />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=9" /> 
+  <<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=6" /></p>
+  <br>
 </td>
 
 <td width="50%" align="center">
