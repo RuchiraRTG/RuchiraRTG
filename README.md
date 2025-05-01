@@ -63,7 +63,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=7" alt="JordanCJ7"></p>
   <br>
 <!--   <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&v=7" /></p> -->
-  <p align="center">
+ <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RuchiraRTG&theme=dark&hide_border=true"/>
