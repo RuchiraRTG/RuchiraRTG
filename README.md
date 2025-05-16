@@ -82,7 +82,7 @@
 <div align="center">
   <br>
   <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=11" alt="RuchiraRTG"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=12" alt="RuchiraRTG"></p>
   <br>
 <!--   <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=RuchiraRTG&theme=vision-friendly-dark&hide_border=false&v=7" /></p> -->
  <p align="center">
